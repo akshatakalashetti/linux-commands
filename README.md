@@ -1,1 +1,46 @@
+
 # linux-commands
+pwd - present working directory
+cd - change directory Ex:cd ./whatsapp
+cd .. - step back
+ls - list of files/folders in pwd
+mv - move files from folder to other
+cp - copy
+mkdir - make my directory/create
+touch - creates new file
+bash - switch bash shell
+csh - switch csh shell
+zsh - switch  zsh shell
+chmod - change file permission
+chown - change ownership of file/folder
+cat - outputs file contents
+tail - outputs last few lines of code
+nano - terminal editor
+source - compile/run bash file
+ssh - secure shell conntennts to source
+telnet - connects to server less secure than ssh
+apt - installs,removes, upgrade etc software packages
+yum - installs,removes,upgrade and otherwise managing Redhat Enterprise linux
+rm - removes files no longer need
+rm -rf  - completly wipes out your system resulting in a broken & unrecoverable system
+rm -r  - deletes folder
+cd --help =helps
+rmdir - removes directory
+ls -al  - listing contents inside a directory
+man - manual(gives manual of command)
+.file - hidden file
+.. - folder linked
+whoami - user name
+vi - edits the file
+
+drwxr_xr_x array 4096 
+r-read
+w-write
+x-execute
+_ no permission
+4096 - size in memory in bytes
+array - owner
+d- directory
+rwx - admin(permissions)
+r_x - group
+r_x - user
